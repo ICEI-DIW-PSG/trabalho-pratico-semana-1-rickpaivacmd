@@ -23,4 +23,7 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
+Meu git não estava conseguindo ler o arquivo README, espero conseguir tirar as dúvidas na próxima aula e enteder o que foi, valeu Pedro!
+
+
 ![Brasão PUC Minas](images/brasao_puc.png)
